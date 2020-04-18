@@ -1,5 +1,7 @@
 node_modules/
 tmp/
 temp/
-package-lock.json
+package-lock.json/
 build/
+pnpm-lock.yaml/
+images/

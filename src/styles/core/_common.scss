@@ -5,12 +5,19 @@
   scroll-behavior: smooth;
 }
 
-body, a, button, input {
+body,
+a,
+button,
+input {
   font-family: $base-font;
 }
 
 a {
   text-decoration: none;
+}
+
+ul {
+  list-style: none;
 }
 
 .container {
